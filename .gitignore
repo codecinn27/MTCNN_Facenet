@@ -71,5 +71,3 @@ coverage.xml
 # dotenv environment variables file
 .env
 
-# If you have your requirements file
-requirements.txt
